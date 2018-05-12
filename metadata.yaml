@@ -1,4 +1,5 @@
 _repo: The-Preservation-of-Antiquities-A-Handbook-for-Curators_46851
+_version: 0.1.0
 contributor:
   translators:
   - agent_name: Auden, Harold A.
@@ -7,12 +8,17 @@ contributor:
   - agent_name: Auden, George A.
     gutenberg_agent_id: '43989'
     url: http://www.gutenberg.org/2009/agents/43989
+covers:
+- cover_type: archival
+  image_path: 46851-h/images/cover.jpg
 creator:
   author:
     agent_name: Rathgen, Friedrich
     gutenberg_agent_id: '43988'
     url: http://www.gutenberg.org/2009/agents/43988
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46851#The-Preservation-of-Antiquities-A-Handbook-for-Curators
 gutenberg_issued: '2014-09-14'
 gutenberg_type: Text
 identifiers:
